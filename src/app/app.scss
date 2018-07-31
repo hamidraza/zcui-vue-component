@@ -1,0 +1,13 @@
+body {
+  font-size: 14px;
+
+  div {
+    font-family: arial;
+    transform: rotate(90deg) translate(1, 1);
+
+    :fullscreen {
+      color: red;
+    }
+  }
+}
+

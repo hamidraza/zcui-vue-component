@@ -1,0 +1,14 @@
+body {
+  font-size: 14px; }
+  body div {
+    font-family: arial;
+    -webkit-transform: rotate(90deg) translate(1, 1);
+            transform: rotate(90deg) translate(1, 1); }
+    body div :-webkit-full-screen {
+      color: red; }
+    body div :-moz-full-screen {
+      color: red; }
+    body div :-ms-fullscreen {
+      color: red; }
+    body div :fullscreen {
+      color: red; }
